@@ -3,11 +3,13 @@
 # this python applet is created with learning purpose more than optimisation in mind
 # this python applet is created by masnawi rahmat in submission of class challenge 
 # in Generation SG/Temasek Poly SGUPMSCT Cloud Support and DevOPs Bootcamp cohort no 4 Yr 2022
-# this python applet is capable of prompting for user :
-# (1) email address
-# (2) email password
-# (3) sender email
-# (4) smtp name 
-# (5) smtp port 
-# (6) email subject header
-# (7) email content
+# this python applet is capable of:
+# (1) prompting for user:
+# (a) email address
+# (b) email password
+# (c) sender email
+# (d) smtp name 
+# (e) smtp port 
+# (f) email subject header
+# (g) email content
+# (2) do an auto config for gmail account

@@ -1,4 +1,4 @@
-# geemail--python
+# python-applet-geemail
 # class challenge to create an email applet in python script 
 # this python applet is created with learning purpose more than optimisation in mind
 # this python applet is created by masnawi rahmat in submission of class challenge 
